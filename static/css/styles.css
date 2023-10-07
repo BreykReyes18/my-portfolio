@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #fc5c5c;
+    background-color: #209CEE;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -44,7 +44,7 @@ section {
 }
 
 button {
-    background-color: #fc5c5c;
+    background-color: #209CEE;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -74,7 +74,7 @@ textarea,
 }
 
 footer {
-    background-color: #fc5c5c;
+    background-color: #209CEE;
     color: white;
     text-align: center;
     padding: 10px 0;
